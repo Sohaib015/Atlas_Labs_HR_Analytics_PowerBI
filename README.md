@@ -41,19 +41,19 @@ Atlas Labs needed a centralized, visual solution to understand workforce dynamic
 
 ### 📂 Data Model
 ![Data Model Screenshot](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Data%20Model.png)
-
+<img src = "https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Data%20Model.png" width = "400">
 ### 📊 Dashboards
 
 #### Overview Dashboard
-![Overview Dashboard](path-to-your-overview-dashboard-image.png)
+![Overview Dashboard]([path-to-your-overview-dashboard-image.png](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Overview%20Dashboard.png))
 
 #### Demographics Dashboard
-![Demographics Dashboard](path-to-your-demographics-dashboard-image.png)
+![Demographics Dashboard]([path-to-your-demographics-dashboard-image.png](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/DemoGraphcs%20Dashboard.png))
 
 #### Performance Tracker Dashboard
-![Performance Tracker Dashboard](path-to-your-performance-dashboard-image.png)
+![Performance Tracker Dashboard]([path-to-your-performance-dashboard-image.png](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Performance%20Tracker%20Dashboard.png))
 
 #### Attrition Dashboard
-![Attrition Dashboard](path-to-your-attrition-dashboard-image.png)
+![Attrition Dashboard]([path-to-your-attrition-dashboard-image.png](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Attrition%20Dashboard.png))
 
 
