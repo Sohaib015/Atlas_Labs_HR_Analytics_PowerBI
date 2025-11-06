@@ -40,7 +40,7 @@ Atlas Labs needed a centralized, visual solution to understand workforce dynamic
 ## 🖼️ Visuals and Data Model
 
 ### 📂 Data Model
-![Data Model Screenshot](path-to-your-data-model-image.png)
+![Data Model Screenshot]([path-to-your-data-model-image.png](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20&%20Dashboard%20Screenshots/Data%20Model.png?raw=true))
 
 ### 📊 Dashboards
 
