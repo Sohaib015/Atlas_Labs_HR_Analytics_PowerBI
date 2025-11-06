@@ -1,4 +1,4 @@
-📊 Atlas Labs HR Analytics with Power BI
+#📊 Atlas Labs HR Analytics with Power BI
 📝 Executive Summary
 This project delivers a comprehensive HR analytics solution for Atlas Labs, built entirely in Power BI. It focuses on monitoring workforce health, analyzing performance and satisfaction trends, and identifying key drivers of employee attrition. The report is powered by a robust data model, dynamic dashboards, and validated DAX measures that enable stakeholders to explore insights interactively and make data-driven decisions.
 💼 Business Problem
