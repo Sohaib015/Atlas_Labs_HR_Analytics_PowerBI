@@ -22,5 +22,38 @@ Atlas Labs needed a centralized, visual solution to understand workforce dynamic
 - **Data Visualization** – Cards, charts, slicers, filters  
 - **Analytical Thinking** – Trend analysis, cohort evaluation, performance tracking
 
+
 ## 📈 Results
-- Built four dynamic dashboards
+- Built four dynamic dashboards tailored to HR needs  
+- Enabled filtering by employee, department, and time period  
+- Identified high-risk attrition segments and satisfaction-performance correlations  
+- Delivered clear, validated KPIs for headcount, attrition, satisfaction, and performance  
+- Provided a scalable framework for ongoing workforce analysis
+
+## 📌 Business Recommendations
+- Review and adjust policies for departments with high attrition  
+- Monitor overtime and travel frequency as potential stress factors  
+- Invest in manager development and onboarding improvements  
+- Use satisfaction and performance trends to guide employee engagement strategies  
+- Continue tracking KPIs to measure the impact of interventions over time
+
+## 🖼️ Visuals and Data Model
+
+### 📂 Data Model
+![Data Model Screenshot](path-to-your-data-model-image.png)
+
+### 📊 Dashboards
+
+#### Overview Dashboard
+![Overview Dashboard](path-to-your-overview-dashboard-image.png)
+
+#### Demographics Dashboard
+![Demographics Dashboard](path-to-your-demographics-dashboard-image.png)
+
+#### Performance Tracker Dashboard
+![Performance Tracker Dashboard](path-to-your-performance-dashboard-image.png)
+
+#### Attrition Dashboard
+![Attrition Dashboard](path-to-your-attrition-dashboard-image.png)
+
+
