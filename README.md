@@ -22,6 +22,25 @@ Atlas Labs needed a centralized, visual solution to understand workforce dynamic
 - **Data Visualization** – Cards, charts, slicers, filters  
 - **Analytical Thinking** – Trend analysis, cohort evaluation, performance tracking
 
+## 🖼️ Visuals and Data Model
+
+### 📂 Data Model
+![Data Model Screenshot](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Data%20Model.png)
+
+### 📊 Dashboards
+
+#### Overview Dashboard
+![Overview Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Overview%20Dashboard.png)
+
+#### Demographics Dashboard
+![Demographics Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/DemoGraphcs%20Dashboard.png)
+
+#### Performance Tracker Dashboard
+![Performance Tracker Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Performance%20Tracker%20Dashboard.png)
+
+#### Attrition Dashboard
+![Attrition Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Attrition%20Dashboard.png)
+
 
 ## 📈 Results
 - Built four dynamic dashboards tailored to HR needs  
@@ -37,23 +56,6 @@ Atlas Labs needed a centralized, visual solution to understand workforce dynamic
 - Use satisfaction and performance trends to guide employee engagement strategies  
 - Continue tracking KPIs to measure the impact of interventions over time
 
-## 🖼️ Visuals and Data Model
 
-### 📂 Data Model
-![Data Model Screenshot](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Data%20Model.png)
-<img src = "https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Data%20Model.png" width = "400" alt= "Data Model">
-### 📊 Dashboards
-
-#### Overview Dashboard
-![Overview Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Overview%20Dashboard.png)
-
-#### Demographics Dashboard
-![Demographics Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/DemoGraphcs%20Dashboard.png)
-
-#### Performance Tracker Dashboard
-![Performance Tracker Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Performance%20Tracker%20Dashboard.png)
-
-#### Attrition Dashboard
-![Attrition Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Attrition%20Dashboard.png)
 
 
