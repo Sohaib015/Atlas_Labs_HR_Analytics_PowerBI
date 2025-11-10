@@ -57,40 +57,6 @@ Atlas Labs needed a centralized platform to better understand its workforce and 
 - Use satisfaction and performance data to shape engagement strategies
 - Continue monitoring KPIs to assess the impact of HR initiatives over time
 
-## Repository Tree
-
-Atlas Labs HR Analytics With Power BI
-├──  Data Model & Dashboard Screenshots
-
-│   ├── Attrition Dashboard.PNG
-
-│   ├── Data Model.PNG
-
-│   ├── DemoGraphics Dashboard.PNG
-
-│   ├── Overview Dashboard.PNG
-
-│   └── Performance Tracker.PNG
-
-├──  Final Project Report.pdf
-
-├──  Power BI Reports.pbix
-
-├──  Source Tables
-
-│   ├── DimDate.txt
-
-│   ├── EducationLevel.csv
-
-│   ├── Employee.csv
-
-│   ├── PerformanceRating.csv
-
-│   ├── RatingLevel.csv
-
-│   └── SatisfiedLevel.csv
-
-└──  README.md
 
 
 
