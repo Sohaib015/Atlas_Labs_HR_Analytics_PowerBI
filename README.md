@@ -66,6 +66,8 @@ Atlas Labs needed a centralized platform to better understand its workforce and 
 |     |     ├── DemoGraphics Dashboard.PNG
 |     |     ├── Overview Dashboard.PNG
 |     |     ├── Performance Tracker.PNG
+|     ├── Final project Report.pdf
+|     ├── Power BI Reports.pbix
 |     ├── Source Tables
 |     |     ├── DimDate.txt
 |     |     ├── EducationLevel.csv
@@ -73,9 +75,8 @@ Atlas Labs needed a centralized platform to better understand its workforce and 
 |     |     ├── PerformanceRating.csv
 |     |     ├── RatingLevel.csv
 |     |     ├── SatisfiedLevel.csv
-|     ├── Final project Report.pdf
-|     ├── Power BI Reports.pbix
 ├── README.md
+
 
 
 
