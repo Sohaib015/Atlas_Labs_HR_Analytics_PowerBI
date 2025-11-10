@@ -61,20 +61,35 @@ Atlas Labs needed a centralized platform to better understand its workforce and 
 
 Atlas Labs HR Analytics With Power BI
 ├──  Data Model & Dashboard Screenshots
+
 │   ├── Attrition Dashboard.PNG
+
 │   ├── Data Model.PNG
+
 │   ├── DemoGraphics Dashboard.PNG
+
 │   ├── Overview Dashboard.PNG
+
 │   └── Performance Tracker.PNG
+
 ├──  Final Project Report.pdf
+
 ├──  Power BI Reports.pbix
+
 ├──  Source Tables
+
 │   ├── DimDate.txt
+
 │   ├── EducationLevel.csv
+
 │   ├── Employee.csv
+
 │   ├── PerformanceRating.csv
+
 │   ├── RatingLevel.csv
+
 │   └── SatisfiedLevel.csv
+
 └──  README.md
 
 
