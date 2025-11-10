@@ -31,16 +31,16 @@ Atlas Labs needed a centralized platform to better understand its workforce and 
 ### Dashboards
 
 #### Overview Dashboard
-![Overview Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Overview%20Dashboard.png)
+![Overview Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Overview%20Dashboard.PNG)
 
 #### Demographics Dashboard
-![Demographics Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/DemoGraphcs%20Dashboard.png)
+![Demographics Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/DemoGraphics%20Dashboard.PNG)
 
 #### Performance Tracker Dashboard
-![Performance Tracker Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Performance%20Tracker%20Dashboard.png)
+![Performance Tracker Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Performance%20Tracker.PNG)
 
 #### Attrition Dashboard
-![Attrition Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Attrition%20Dashboard.png)
+![Attrition Dashboard](https://github.com/Sohaib015/Atlas_Labs_HR_Analytics_PowerBI/blob/main/Atlas%20Labs%20HR%20Analytics%20With%20Power%20BI/Data%20Model%20%26%20Dashboard%20Screenshots/Attrition%20Dashboard.PNG)
 
 
 ## Results
